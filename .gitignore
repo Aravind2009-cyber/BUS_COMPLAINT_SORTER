@@ -1,0 +1,21 @@
+# Environment variables & API keys (CRITICAL: NEVER COMMIT REAL API KEYS!)
+.env
+.env.local
+.env.*
+!.env.example
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
