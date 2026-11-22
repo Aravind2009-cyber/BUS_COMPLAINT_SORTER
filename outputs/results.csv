@@ -1,0 +1,23 @@
+id,category,urgent,route,summary
+C01,delay,False,4,Route 4 bus came 25 minutes late again
+C02,driver,True,7,Driver on route 7 was talking on the
+C03,crowding,True,2,Bus 2 is so crowded that students are
+C04,route_request,False,,Can we get a stop near Medavakkam junction
+C05,vehicle,False,5,The AC is not working properly in bus
+C06,other,False,,ok
+C07,driver,True,3,Driver anna on route 3 romba fast ah
+C08,vehicle,True,8,The rear automatic door in route 8 is
+C09,delay,False,,Bus was delayed by 30 mins at Porur
+C10,route_request,False,1,Can you add another bus for route 1
+C11,driver,False,,Driver was shouting rudely at first year students
+C12,vehicle,True,10,Heavy black smoke coming from engine of route
+C13,crowding,False,,No space to stand even inside the bus
+C14,delay,False,12,Route 12 morning bus skipped the Chromepet flyover
+C15,other,False,,bad
+C16,driver,True,6,Bus 6 driver nearly collided with an auto
+C17,route_request,False,9,Please extend route 9 to cover Kolathur junction
+C18,vehicle,False,4,Seats are torn and rain water is leaking
+C19,vehicle,False,1,Route 1 bus romba late aagudhu daily timing
+C20,crowding,True,11,Footboard la students thongitu travel pandranga in route
+C21,other,False,,Good morning
+C22,vehicle,True,5,Brakes on route 5 felt unresponsive and made

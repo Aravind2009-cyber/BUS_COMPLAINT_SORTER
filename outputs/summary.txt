@@ -1,0 +1,69 @@
+=====================================================
+        COLLEGE BUS COMPLAINT TRIAGE REPORT          
+=====================================================
+
+Total Complaints Processed : 22
+Safety Complaints (Urgent) : 8
+Unassigned / No Route      : 7
+
+-----------------------------------------------------
+1. COMPLAINTS PER CATEGORY
+-----------------------------------------------------
+ - vehicle                : 6
+ - driver                 : 4
+ - delay                  : 3
+ - crowding               : 3
+ - route_request          : 3
+ - other                  : 3
+
+-----------------------------------------------------
+2. COMPLAINTS PER ROUTE (Sorted by highest frequency)
+-----------------------------------------------------
+ - Route  1 (Tambaram      ) : 2 complaint(s)
+ - Route  4 (Chromepet     ) : 2 complaint(s)
+ - Route  5 (Guindy        ) : 2 complaint(s)
+ - Route  2 (Velachery     ) : 1 complaint(s)
+ - Route  3 (Porur         ) : 1 complaint(s)
+ - Route  6 (Adyar         ) : 1 complaint(s)
+ - Route  7 (T. Nagar      ) : 1 complaint(s)
+ - Route  8 (Poonamallee   ) : 1 complaint(s)
+ - Route  9 (Perambur      ) : 1 complaint(s)
+ - Route 10 (Avadi         ) : 1 complaint(s)
+ - Route 11 (Medavakkam    ) : 1 complaint(s)
+ - Route 12 (Pallavaram    ) : 1 complaint(s)
+
+-----------------------------------------------------
+3. TRANSPORT OFFICER SAFETY QUEUE (Urgent Issues)
+-----------------------------------------------------
+[1] ID: C02 | Date: 2026-10-01 | Route 7 (T. Nagar)
+    Summary   : Driver on route 7 was talking on the
+    Complaint : "Driver on route 7 was talking on the phone while driving on GST road"
+
+[2] ID: C03 | Date: 2026-10-02 | Route 2 (Velachery)
+    Summary   : Bus 2 is so crowded that students are
+    Complaint : "Bus 2 is so crowded that students are standing on the footboard"
+
+[3] ID: C07 | Date: 2026-10-03 | Route 3 (Porur)
+    Summary   : Driver anna on route 3 romba fast ah
+    Complaint : "Driver anna on route 3 romba fast ah poraru, sudden brake poduraru bayama irukku"
+
+[4] ID: C08 | Date: 2026-10-04 | Route 8 (Poonamallee)
+    Summary   : The rear automatic door in route 8 is
+    Complaint : "The rear automatic door in route 8 is broken and remained open throughout the ride"
+
+[5] ID: C12 | Date: 2026-10-06 | Route 10 (Avadi)
+    Summary   : Heavy black smoke coming from engine of route
+    Complaint : "Heavy black smoke coming from engine of route 10 near Avadi"
+
+[6] ID: C16 | Date: 2026-10-08 | Route 6 (Adyar)
+    Summary   : Bus 6 driver nearly collided with an auto
+    Complaint : "Bus 6 driver nearly collided with an auto while overtaking rashly"
+
+[7] ID: C20 | Date: 2026-10-10 | Route 11 (Medavakkam)
+    Summary   : Footboard la students thongitu travel pandranga in route
+    Complaint : "Footboard la students thongitu travel pandranga in route 11, please stop this"
+
+[8] ID: C22 | Date: 2026-10-11 | Route 5 (Guindy)
+    Summary   : Brakes on route 5 felt unresponsive and made
+    Complaint : "Brakes on route 5 felt unresponsive and made grinding sounds on Mount road"
+
